@@ -1,0 +1,7 @@
+{
+  "gui.nsmer.config.title": "Entities Rendering List",
+  "gui.nsmer.config.render": "Render",
+  "gui.nsmer.config.no_render": "NoRender",
+  "gui.nsmer.config.name": "Name",
+  "key.nsmer.configured_screen": "EntitiesRenderingListScreen"
+}

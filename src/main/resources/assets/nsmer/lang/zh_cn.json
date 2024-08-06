@@ -1,0 +1,7 @@
+{
+  "gui.nsmer.config.title": "渲染实体列表",
+  "gui.nsmer.config.render": "渲染",
+  "gui.nsmer.config.no_render": "不渲染",
+  "gui.nsmer.config.name": "名称",
+  "key.nsmer.configured_screen": "渲染实体列表界面"
+}
